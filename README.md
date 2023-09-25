@@ -1,2 +1,1 @@
-# OffBeatCampus
-Community For Students
+# off Beat Campus
