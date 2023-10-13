@@ -1,12 +1,15 @@
-import Image from 'next/image'
-
+'use client'
+import {Hero, Explore, Footer} from "./components/components"
 
 export default function Home() {
   return (
-   
     <>
-    <h1>Off Beat Campus🧑‍🎓</h1>
+    {/* Navbar */}
+       <div className="scroll-smooth bg-black">
+       <Hero/>
+       <Explore/>
+       <Footer/>
+       </div>
     </>
- 
   )
 }
