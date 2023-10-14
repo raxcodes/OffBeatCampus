@@ -1,6 +1,6 @@
-import Navbar from './components/Navbar'
-import './globals.css'
-import 'flowbite'
+import Navbar from './components/Navbar';
+import './globals.css';
+import 'flowbite';
 
 
 export const metadata = {

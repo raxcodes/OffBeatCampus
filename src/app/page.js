@@ -5,11 +5,11 @@ export default function Home() {
   return (
     <>
     {/* Navbar */}
-       <div className="scroll-smooth bg-black">
+
        <Hero/>
        <Explore/>
        <Footer/>
-       </div>
+       
     </>
   )
 }
